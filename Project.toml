@@ -1,4 +1,4 @@
 name = "IranianMusicKnowledgeBase"
 uuid = "7d0e8846-790b-4d53-a452-f61e6e4ef64b"
-authors = ["Ardavan Khalij <ardavan.khalij@vub.be>"]
-version = "0.1.0"
+authors = ["Ardavan Khalij"]
+version = "1.1.1"
