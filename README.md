@@ -14,5 +14,5 @@ Other music representation challenges must be addressed before the statistical m
 
 In Iranian music, some other attributes can affect the music radically, so in order to load the data, we need another approach that is different from Western music
 because, in Western music, the only thing that is needed is the list of notes. So based on the challenge that has been described above, a JSON file has been made with
-the same structure as the hierarchy that exists in Iranian music (Key, 2010; Khaleghi, 2002; Abdollah et al., 2018; Safvat et al., 2013; Abdollah and Talai, 2000) and the MirzaAbdollah Radif. </div></div>
-Other than these attributes, a path also exists in each Gush´e. This field is the path to the Midi file with the notes. So all the attributes of Radifs, Dastgahs, Avazes, and Gush´es will be loaded from the JSON file implemented, and the notes will be received from the Midi files directly, based on the path mentioned.</div></div>
+the same structure as the hierarchy that exists in Iranian music (Key, 2010; Khaleghi, 2002; Abdollah et al., 2018; Safvat et al., 2013; Abdollah and Talai, 2000) and the MirzaAbdollah Radif. </br></br>
+Other than these attributes, a path also exists in each Gush´e. This field is the path to the Midi file with the notes. So all the attributes of Radifs, Dastgahs, Avazes, and Gush´es will be loaded from the JSON file implemented, and the notes will be received from the Midi files directly, based on the path mentioned.</br></br>
