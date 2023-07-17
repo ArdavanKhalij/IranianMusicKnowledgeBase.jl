@@ -8,3 +8,6 @@
  [![Build Status](https://api.cirrus-ci.com/github/ArdavanKhalij/IranianMusicKnowledgeBase.jl.svg)](https://cirrus-ci.com/github/ArdavanKhalij/IranianMusicKnowledgeBase.jl)
  [![Coverage](https://codecov.io/gh/ArdavanKhalij/IranianMusicKnowledgeBase.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/ArdavanKhalij/IranianMusicKnowledgeBase.jl)
  [![Coverage](https://coveralls.io/repos/github/ArdavanKhalij/IranianMusicKnowledgeBase.jl/badge.svg?branch=main)](https://coveralls.io/github/ArdavanKhalij/IranianMusicKnowledgeBase.jl?branch=main)
+
+ Install:
+`pkg> add "https://github.com/ArdavanKhalij/IranianMusicKnowledgeBase.jl.git"`
