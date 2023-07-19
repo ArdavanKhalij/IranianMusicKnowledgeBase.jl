@@ -20,3 +20,5 @@ It is important to mention that this JSON file designed based on the data in the
 Other than these attributes, a path also exists in each Gush´e. This field is the path to the Midi file with the notes. So all the attributes of Radifs, Dastgahs, Avazes, and Gush´es will be loaded from the JSON file implemented, and the notes will be received from the Midi files directly, based on the path mentioned.</br></br>
 
 ## Data
+
+## How to use
