@@ -17,7 +17,7 @@ because, in Western music, the only thing that is needed is the list of notes. S
 the same structure as the hierarchy that exists in Iranian music (Key, 2010; Khaleghi, 2002; Abdollah et al., 2018; Safvat et al., 2013; Abdollah and Talai, 2000) and the MirzaAbdollah Radif. </br></br>
 Other Radifs Also will be added in the near future to the JSON file.</br></br>
 It is important to mention that this JSON file designed based on the data in the Data directory and it will only work with those.</br></br>
-Other than these attributes, a path also exists in each Gush´e. This field is the path to the Midi file with the notes. So all the attributes of Radifs, Dastgahs, Avazes, and Gush´es will be loaded from the JSON file implemented, and the notes will be received from the Midi files directly, based on the path mentioned.</br></br>
+Other than these attributes, a path also exists in each Gushe. This field is the path to the Midi file with the notes. So all the attributes of Radifs, Dastgahs, Avazes, and Gushes will be loaded from the JSON file implemented, and the notes will be received from the Midi files directly, based on the path mentioned.</br></br>
 
 ## Data
 
