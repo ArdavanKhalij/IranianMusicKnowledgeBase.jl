@@ -365,7 +365,7 @@ function Load_Gushe_Notes(path::String,
     return Notes
 end
 
-function IR_Load_Data(path)
+function IR_Load_Data(path::String="../IRMusic_Structure.JSON")
     Data = JSON.parsefile(path)
     R = Data["Radifs"]
     D = R[1]["Dastgahs"]
