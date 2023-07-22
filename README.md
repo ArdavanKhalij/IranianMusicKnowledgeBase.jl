@@ -21,7 +21,7 @@ Other than these attributes, a path also exists in each Gushe. This field is the
 
 ## Data
 Dr. Sepideh Shafiee produced the data from the City University of New York. This data consists of different Dastgahs of Iranian music in Midi files, and Koron and Sori are implemented by pitch-bend. Of course it should be mentioned that the version of data that is in this repository is a cleaned version of the data made by Dr. Shafiee and for using the system, this new version is required.</br></br>
-The first version of the data (uncleaned data) is available in :https://github.com/SepiSha/radif-Midi
+The first version of the data (uncleaned data) is available in: https://github.com/SepiSha/radif-Midi
 </br></br>
 
 ## How to use
