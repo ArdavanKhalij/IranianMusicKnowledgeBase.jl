@@ -20,5 +20,9 @@ It is important to mention that this JSON file designed based on the data in the
 Other than these attributes, a path also exists in each Gushe. This field is the path to the Midi file with the notes. So all the attributes of Radifs, Dastgahs, Avazes, and Gushes will be loaded from the JSON file implemented, and the notes will be received from the Midi files directly, based on the path mentioned.</br></br>
 
 ## Data
+Dr. Sepideh Shafiee produced the data from the City University of New York. This data consists of different Dastgahs of Iranian music in Midi files, and Koron and Sori are implemented by pitch-bend. Of course it should be mentioned that the version of data that is in this repository is a cleaned version of the data made by Dr. Shafiee and for using the system, this new version is required.</br></br>
+The first version of the data (uncleaned data) is available in :https://github.com/SepiSha/radif-Midi
+</br></br>
 
 ## How to use
+For using the JSON file and the data, first put the JSON file and the data besid your file that you are coding in. For more details about how to use the package with the other packages, please take a look at the Jupyter notebooks.</br></br>
