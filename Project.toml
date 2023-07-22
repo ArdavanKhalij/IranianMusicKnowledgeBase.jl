@@ -11,3 +11,10 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
 test = ["Test"]
+
+[deps]
+Chakra = "23337c43-347c-4169-b193-f31a84c326bf"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+MIDI = "f57c4921-e30c-5f49-b073-3f2f2ada663e"
+Charm = "e2273620-1c64-487a-88f9-b29e28f5a7be"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
